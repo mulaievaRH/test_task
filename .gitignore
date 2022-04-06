@@ -1,0 +1,5 @@
+testcases/__pycache__
+.pytest_cache
+geckodriver.log
+screenshots/*
+.venv
