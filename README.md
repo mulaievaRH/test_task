@@ -35,10 +35,10 @@ $ pip3 install -r requirements.txt
 
 ## Usage
 
-To ran script
+To run script
 
 ```
-pytest testcases/test_case.py --browser [OPTION]
+$ pytest testcases/test_case.py --browser [OPTION]
 Options:
     chrome         to run the test in the Chrome browser
     ff             to run the test in the FireFox browser
